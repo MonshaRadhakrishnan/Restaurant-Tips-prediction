@@ -6,3 +6,4 @@ This project is about analyzing the Tips data from a restaurant and using regres
 3. Data cleansing
 4. Data analysis
 5. Data Visualizations
+6. Building Regression models
